@@ -1,11 +1,7 @@
-# woman washing dishes
+# Woman Washing Dishes
 shooting game
 
-
-
-
-
-
+# How to play
 
 # Manual
 How to move - press Left and right arrow to move 
