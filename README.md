@@ -12,7 +12,9 @@ How to attack - Tap the space to attack the dishes.
 How to get the score - If you fight the dishes you will get 10 points,touch by dishes minus 10 points.
 
 Game over 
+
 -Hit by coffee cups or shoot it.
+
 -Your score less than zero.
 
 You don’t- You don’t touch by coffee cap or attack it.
