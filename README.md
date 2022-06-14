@@ -23,4 +23,5 @@ You don’t- You don’t touch by coffee cap or attack it.
 If you violation these rule you will game over
 
 #Flow chart
-![1655224315874](https://user-images.githubusercontent.com/86814409/173629779-4705d304-6ea2-4694-b14b-b0974b51134b.jpg)
+![繪圖1](https://user-images.githubusercontent.com/86814409/173630611-77badba2-64de-42b4-84e9-75e566fb7ce5.jpg)
+
