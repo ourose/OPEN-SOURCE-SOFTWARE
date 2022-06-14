@@ -1,5 +1,4 @@
-# Fighting Woman
-shooting game
+# Game - Fighting Woman
 https://ian-chiu.itch.io/fighting-woman
 
 # How to play
