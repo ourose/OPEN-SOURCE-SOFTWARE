@@ -1,4 +1,4 @@
-# Woman Washing Dishes
+# Fighting Woman
 shooting game
 https://ian-chiu.itch.io/fighting-woman
 
